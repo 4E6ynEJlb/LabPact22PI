@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "GrpcServer.Controllers.WeatherController",
+    "Method": "Current",
+    "RelativePath": "api/Weather/Current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GrpcServer.Controllers.WeatherController",
+    "Method": "Multiple",
+    "RelativePath": "api/Weather/Multiple",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
