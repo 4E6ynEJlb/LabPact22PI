@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcserver\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcserver\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcclient\\apis\\grpcapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\apis\\grpcapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcclient\\apis\\irefitrestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\apis\\irefitrestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcclient\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcclient\\grpcclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\grpcclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcclient\\apis\\irefitrestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82562733-DC2E-4ED9-AEE8-EB36817B1966}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\apis\\irefitrestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E584421A-774D-492C-B777-E54F7DDBFD44}|GrpcServer\\GrpcServer.csproj|c:\\users\\cybernit\\source\\repos\\labpact22pi\\grpcexample\\grpcserver\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,15 +54,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcServer\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcServer\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "GrpcServer\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:32:23.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GrpcClient",
               "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcClient\\GrpcClient.csproj",
               "RelativeDocumentMoniker": "GrpcClient\\GrpcClient.csproj",
               "ToolTip": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcClient\\GrpcClient.csproj",
               "RelativeToolTip": "GrpcClient\\GrpcClient.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T23:19:26.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T23:19:26.78Z"
             },
             {
               "$type": "Document",
@@ -68,14 +84,14 @@
               "RelativeDocumentMoniker": "GrpcClient\\APIs\\GrpcApi.cs",
               "ToolTip": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcClient\\APIs\\GrpcApi.cs",
               "RelativeToolTip": "GrpcClient\\APIs\\GrpcApi.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T22:42:50.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "IRefitRestApi.cs",
               "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcClient\\APIs\\IRefitRestApi.cs",
               "RelativeDocumentMoniker": "GrpcClient\\APIs\\IRefitRestApi.cs",
@@ -83,12 +99,11 @@
               "RelativeToolTip": "GrpcClient\\APIs\\IRefitRestApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T22:39:09.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T22:39:09.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "weather.proto",
               "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcClient\\Protos\\weather.proto",
               "RelativeDocumentMoniker": "GrpcClient\\Protos\\weather.proto",
@@ -96,12 +111,11 @@
               "RelativeToolTip": "GrpcClient\\Protos\\weather.proto",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-03-08T21:20:44.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T21:20:44.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcServer\\Program.cs",
               "RelativeDocumentMoniker": "GrpcServer\\Program.cs",
@@ -109,25 +123,24 @@
               "RelativeToolTip": "GrpcServer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T21:01:45.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T21:01:45.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WeatherService.cs",
               "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcServer\\Services\\WeatherService.cs",
               "RelativeDocumentMoniker": "GrpcServer\\Services\\WeatherService.cs",
-              "ToolTip": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcServer\\Services\\WeatherService.cs",
-              "RelativeToolTip": "GrpcServer\\Services\\WeatherService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcServer\\Services\\WeatherService.cs*",
+              "RelativeToolTip": "GrpcServer\\Services\\WeatherService.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T20:59:16.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "weather.proto",
               "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcServer\\Protos\\weather.proto",
               "RelativeDocumentMoniker": "GrpcServer\\Protos\\weather.proto",
@@ -135,18 +148,17 @@
               "RelativeToolTip": "GrpcServer\\Protos\\weather.proto",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-03-08T20:40:42.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T20:40:42.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcClient\\Program.cs",
               "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
               "ToolTip": "C:\\Users\\CyberNit\\source\\repos\\LabPact22PI\\GrpcExample\\GrpcClient\\Program.cs*",
               "RelativeToolTip": "GrpcClient\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T20:38:27.938Z",
               "EditorCaption": ""

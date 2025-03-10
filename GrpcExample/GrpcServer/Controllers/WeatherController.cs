@@ -27,8 +27,8 @@ namespace GrpcServer.Controllers
         [Route("[action]")]
         public Task<IActionResult> Multiple(string city)
         {
-            var response = new List<WeatherResponse>(5);
-            for (var i = 0; i < 5; i++)
+            var response = new List<WeatherResponse>(10000);
+            for (var i = 0; i < 10000; i++)
             {
                 response.Add(new WeatherResponse
                 {

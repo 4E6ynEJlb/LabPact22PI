@@ -40,13 +40,10 @@ namespace GrpcClient.APIs
             }
         }
 
-        internal async Task GetMultipleWeather(string city)
+        internal async Task<List<WeatherResponse>> GetMultipleWeather(string city)
         {
-            var multiple =  await _client.GetMultipleWeatherAsync(_request);
-            foreach (var weather in multiple.Weather)
-            {
-                Console.WriteLine($"Погода в городе {weather.City}: {weather.Temperature}°C, {weather.Description} ({weather.Timestamp})");
-            }
+            var multiple = await _client.GetMultipleWeatherAsync(_request);
+            return multiple.Weather.ToList();
         }
 
         ~GrpcApi()
